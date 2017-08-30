@@ -8,18 +8,21 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 
 ## Project 1: Nightlight Intensity for Consumption-based and Asset-based Wealth
 
+* **Location:** ```./nightlights```
+* **Programming Language:** R 3.3.2 (should work for newer versions)
+* **Required Packages:** rgdal, rgeos, raster, magrittr, foreign, plyr, dplyr, ggplot2, GGally, broom
+
+
+<center>
+![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
 | Wealth   | Year        | Clusters  | Adjusted R2|
 | ---------|:-------:| -----:|-----------:|
 | Asset-based    | 2003 | 816 |	**0.5015** |
 | Asset-based    | 2008 | 789| **0.5321** |
 | Consumption | 2009 | 97| **0.7993** |
 | Consumption | 2012 | 97 | **0.8758** |
+</center>
 
-![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
-
-**Programming Language:** R 3.3.2 (should work for newer versions)
-
-**Required Packages:** rgdal, rgeos, raster, magrittr, foreign, plyr, dplyr, ggplot2, GGally, broom
 
 Data Sources:
 
@@ -29,7 +32,7 @@ Data Sources:
 *Related:* Chen & Nordhaus, 2011, Using luminosity data as a proxy for
 economic statistics [[Arxiv]](http://www.econ.yale.edu/~nordhaus/homepage/documents/CN_lumen_PNAS_2011.pdf)
 
-### Project 1 Instructions for Replication
+### Instructions for Replication
 
 1. Populate ```data/input/``` folder with the following:
 	* Nightlights Data from [NGDC](https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)
