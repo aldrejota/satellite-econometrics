@@ -12,14 +12,14 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 * **Programming Language:** R 3.3.2 (should work for newer versions)
 * **Required Packages:** rgdal, rgeos, raster, magrittr, foreign, plyr, dplyr, ggplot2, GGally, broom
 
-![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
+Regression of Nightlight Intensity Values in a given Cluster/Province/Municipality:
 
 | Wealth   | Year        | Clusters  | Adjusted R2|
 | ---------|:-------:| -----:|-----------:|
-| Asset-based    | 2003 | 816 |	**0.5015** |
-| Asset-based    | 2008 | 789| **0.5321** |
-| Consumption | 2009 | 97| **0.7993** |
-| Consumption | 2012 | 97 | **0.8758** |
+| Asset-based    | [2003](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2003.png) | 816 |	**0.5015** |
+| Asset-based    | [2008](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2008.png) | 789| **0.5321** |
+| Consumption | [2009](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2009.png) | 97| **0.7993** |
+| Consumption | [2012](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png) | 97 | **0.8758** |
 
 Data Sources:
 
