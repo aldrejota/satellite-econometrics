@@ -8,11 +8,11 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 
 ## Project 1: Nightlight Intensity for Consumption-based and Asset-based Wealth
 
-* **Location:** ```./nightlights```
-* **Programming Language:** R 3.3.2 (should work for newer versions)
+* **Directory:** ```./nightlights```
+* **Programming Language:** R version 3.3.2 (should also work for newer versions)
 * **Required Packages:** rgdal, rgeos, raster, magrittr, foreign, plyr, dplyr, ggplot2, GGally, broom
 
-Regression of Nightlight Intensity Values in a given Cluster/Province/Municipality:
+Linear Regression of Nightlight Intensity Values in a Cluster to Wealth Score:
 
 | Wealth   | Year        | Clusters  | Adjusted R2|
 | ---------|:-------:| -----:|-----------:|
@@ -23,8 +23,8 @@ Regression of Nightlight Intensity Values in a given Cluster/Province/Municipali
 
 Data Sources:
 
-* Asset-based - Wealth Index Scores from USAID Demographic and Health Survey
-* Consumption-based - Average Expenditure from Philippine Statistics Authority 
+* *Asset-based* - Wealth Index Scores from USAID Demographic and Health Survey
+* *Consumption-based* - Average Expenditure from Philippine Statistics Authority 
 
 *Related:* Chen & Nordhaus, 2011, Using luminosity data as a proxy for
 economic statistics [[Arxiv]](http://www.econ.yale.edu/~nordhaus/homepage/documents/CN_lumen_PNAS_2011.pdf)
