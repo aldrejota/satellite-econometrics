@@ -15,7 +15,7 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 | Consumption | 2009 | 97| **0.7993** |
 | Consumption | 2012 | 97 | **0.8758** |
 
-![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics-PH/blob/master/figures/nightlight_regression_2012.png)
+![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
 
 **Programming Language:** R 3.3.2 (should work for newer versions)
 
