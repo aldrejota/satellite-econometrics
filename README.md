@@ -12,7 +12,7 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 * **Programming Language:** R 3.3.2 (should work for newer versions)
 * **Required Packages:** rgdal, rgeos, raster, magrittr, foreign, plyr, dplyr, ggplot2, GGally, broom
 
-![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
+![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png =250x)
 
 | Wealth   | Year        | Clusters  | Adjusted R2|
 | ---------|:-------:| -----:|-----------:|
