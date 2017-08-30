@@ -15,6 +15,7 @@ For questions and bug reports, please email *Aldre Jota* at aldrejota[at]gmail.c
 
 <center>
 ![Regression on Expenditure](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/nightlight_regression_2012.png)
+
 | Wealth   | Year        | Clusters  | Adjusted R2|
 | ---------|:-------:| -----:|-----------:|
 | Asset-based    | 2003 | 816 |	**0.5015** |
