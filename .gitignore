@@ -2,7 +2,9 @@
 *.DTA
 *.tif
 *.RData
-data/input/*
+data/input/Polygons/*
+data/input/Shapefiles/*
+data/input/Marawi_Shapefile/*
 staging
 staging/*
 .DS_Store
