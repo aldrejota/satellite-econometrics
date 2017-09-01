@@ -2,6 +2,7 @@
 *.DTA
 *.tif
 *.RData
+*.Rhistory
 data/input/Polygons/*
 data/input/Shapefiles/*
 data/input/Marawi_Shapefile/*
