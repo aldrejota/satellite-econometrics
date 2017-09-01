@@ -55,7 +55,7 @@ economic statistics [[Arxiv]](http://www.econ.yale.edu/~nordhaus/homepage/docume
 * **Programming Language:** R version 3.4.1 (should also work for newer versions)
 * **Required Packages:** rgdal, rgeos, raster, magrittr, foreign, ggplot2, GGally, RColorBrewer
 
-![Marawi Change Plot of May vs. June](https://github.com/aldrejota/satelllite-econometrics/blob/master/figures/Marawi_Change_MayVsJune.png)
+![Marawi Change Plot of May vs. June](https://github.com/aldrejota/satellite-econometrics/blob/master/figures/Marawi_Change_MayVsJune.png)
 
 ### Instructions for Replication
 
