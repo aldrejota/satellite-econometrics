@@ -59,7 +59,8 @@ economic statistics [[Arxiv]](http://www.econ.yale.edu/~nordhaus/homepage/docume
 
 ### Instructions for Replication
 
-1. Download 2017 Nightlights Data [here](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html)
+1. Download 2017 Nightlights Data [here](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html).
+2. Download Marawi City Shapefile from [here](http://philgis.org/city-and-capital-page/marawi-city).
 2. Run the script: ```MarawiAnalysis.R``` to generate figures.
 
 ---
